@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
+i am a niger
+kkonaa kkomrad
+bang
+gagn
 Use the left arrow to go back!
